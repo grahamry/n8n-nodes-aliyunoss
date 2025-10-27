@@ -198,5 +198,5 @@ Schedule Trigger → 阿里云OSS(列表) → 阿里云OSS(复制)
 
 ---
 
-**作者**: nqbt45182  
+**作者微信**: nqbt45182  
 **维护者**: [grahamry](https://github.com/grahamry)
